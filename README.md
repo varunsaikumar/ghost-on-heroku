@@ -13,6 +13,8 @@ This is a fork with some improvements from https://github.com/cobyism/ghost-on-h
 
 ## Ghost version 3.X
 
+IMPORTANT: Ghost On Heroku will be bumped to 4.0 soon. Legacy versions are available on separate branch.
+
 The latest release of Ghost is now supported! Changes include:
 
 - Requires MySQL database, available through either of two add-ons:
