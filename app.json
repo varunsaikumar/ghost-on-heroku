@@ -8,7 +8,7 @@
   },
   "success_url": "/ghost",
   "addons": [
-    "jawsdb"
+    "mailgun"
   ],
   "env": {
     "PUBLIC_URL": {
